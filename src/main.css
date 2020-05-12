@@ -1,12 +1,32 @@
 body {
   background-color: powderblue;
+    background-image: url('https://yesportsbet.com/wp-content/themes/yesportsbet/assets/image/tournaments/dota2-weplay.png');
+
 }
 
+.img-team{
+width: 40px;
+}
+
+.checkbox-small{
+padding:0;
+margin: 0;}
+a:hover{
+  font-size: 110%;
+}
+button{
+margin-top: 20px;
+margin-left:100px;}
+
 table{
-width:69%}
+width:auto;
+margin-left: 100px;}
  tr {
         box-shadow: 0px 0px 0px 1px rgb(0, 0, 0);
         padding: 10px;
 }
+th{
+padding-right: 20px;}
 td{
 padding:20px 10px}
+
